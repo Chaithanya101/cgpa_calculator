@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first_year"
+        android:title="First_Year">
+        <menu>
+            <item
+                android:id="@+id/cs1"
+                android:title="Sem1"></item>
+            <item
+                android:id="@+id/cs2"
+                android:title="Sem2"></item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/second_year"
+        android:title="Second_Year">
+        <menu>
+            <item android:id="@+id/cs3"
+                android:title="Sem3"></item>
+            <item android:id="@+id/cs4"
+                android:title="Sem4"></item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/third_year"
+        android:title="Third_Year">
+        <menu>
+            <item android:id="@+id/cs5"
+                android:title="Sem5"></item>
+            <item android:id="@+id/cs6"
+                android:title="Sem6"></item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/fourth_year"
+        android:title="Fourth_Year">
+        <menu>
+            <item android:id="@+id/cs7"
+                android:title="Sem7"></item>
+            <item android:id="@+id/cs8"
+                android:title="Sem8"></item>
+        </menu>
+    </item>
+
+</menu>
